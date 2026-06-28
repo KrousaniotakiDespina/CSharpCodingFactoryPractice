@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CSharpCodingFactoryPractice/CSharpCodingFactoryPractice.csproj" />
+  <Project Path="DistanceConverterApp/DistanceConverterApp.csproj" />
 </Solution>
