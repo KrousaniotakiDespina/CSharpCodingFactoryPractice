@@ -29,9 +29,9 @@
 
             // Output
             Console.WriteLine($"{"Χιλιόμετρα:"} {kilometers:N2} km");
-            Console.WriteLine($"{"Μέτρα"} {meters:N2} m");
-            Console.WriteLine($"{"Εκατοστά"} {centimeters:N2} cm");
-            Console.WriteLine($"{"Μίλια"} {miles:N2} mi");
+            Console.WriteLine($"{"Μέτρα:"} {meters:N2} m");
+            Console.WriteLine($"{"Εκατοστά:"} {centimeters:N2} cm");
+            Console.WriteLine($"{"Μίλια:"} {miles:N2} mi");
         }
     }
 }
